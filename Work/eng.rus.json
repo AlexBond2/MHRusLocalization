@@ -7265,7 +7265,7 @@
   },
   "427741531692991742": {
     "eng": "Raid Dummy",
-    "rus": "Враг рейда"
+    "rus": "Манекен рейда"
   },
   "427750525362439431": {
     "eng": "#red#Rage of Muspelheim#/red#: When you Critically Hit, gain +$param1.power.condition0.critratingbonusadd.nofraction$ Critical Hit Rating and +$param1.power.condition0.supercritratingbonusadd.nofraction$ Brutal Strike Rating for $param1.power.condition0.duration$. ",
@@ -7405,7 +7405,7 @@
   },
   "435194296387372290": {
     "eng": "Test with no synergies activated. \nOnly have the 5 white gear slots and this Medallion equipped.\nTest against the Lvl 60 Boss DPS Target Dummy with your most effective combination of high DPS attacks. - Yours truly, Skip Lavis",
-    "rus": "Тест без активированных синергий. \nУ вас только 5 ячеек для белого снаряжения и этот Медальон в экипировке.\nТест против Тренировочный манекен DPS Босса 60 ур. с вашей самой эффективной комбинацией атак с высоким DPS. - Искренне ваш, Скип Лавис"
+    "rus": "Тест без активных синергий.\nЭкипируйте только 5 предметов белого качества и этот медальон.\nПроведите тест на Боссе-Манекене теста урона 60 ур., используя вашу самую эффективную комбинацию атак с максимальным уроном. - Искренне ваш, Скип Лавис"
   },
   "435441377391478127": {
     "eng": "Secrets of the Hammerhead Gang",
@@ -15773,7 +15773,7 @@
   },
   "948279065330189581": {
     "eng": "Winter Soldier Spray Paint",
-    "rus": "Спрей для граффити Зимнего Солдата"
+    "rus": "Граффити: Зимнего Солдата"
   },
   "948911683946153226": {
     "eng": "Throne of Surtur",
@@ -30153,7 +30153,7 @@
   },
   "1808595572084573502": {
     "eng": "Iron Man Spray Paint",
-    "rus": "Аэрозоль Железного человека"
+    "rus": "Граффити: Железного человека"
   },
   "1808675733356545346": {
     "eng": "Throw a single sai at your enemy with pinpoint accuracy.",
@@ -35233,7 +35233,7 @@
   },
   "2105015527403554074": {
     "eng": "When you use a power gain 100 Maximum Spirit for 10s (20s Cooldown)",
-    "rus": "При использовании способность, получаете 100 Максимального духа на 10 сек (Перезарядка 20 сек)"
+    "rus": "При использовании способности, получаете 100 Максимального духа на 10 сек (Перезарядка 20 сек)"
   },
   "2105535751194805666": {
     "eng": "",
@@ -40025,7 +40025,7 @@
   },
   "2407240496192030014": {
     "eng": "Luke's Lucky Chain",
-    "rus": "Счастливая цепочка Люка"
+    "rus": "Счастливая цепь Люка"
   },
   "2407707591007995153": {
     "eng": "Threat Level: $challengedifficulty$\nEnemy Damage: +$challengedamage$%\nEnemy Health: +$challengehealth$%",
@@ -41209,7 +41209,7 @@
   },
   "2479670506786587919": {
     "eng": "Cower Duration: $duration$",
-    "rus": "Длительность прятания: $duration$"
+    "rus": "Длительность оцепенения: $duration$"
   },
   "2479838611862324543": {
     "eng": "We are the Hand.\nWe do not tolerate intruders in our city.",
@@ -45101,7 +45101,7 @@
   },
   "2719784879713944842": {
     "eng": "+1 Fighting #purplecard#buff#/purplecard# for 1 hour.\n+1 Speed #purplecard#buff#/purplecard# for 1 hour.\n1 hour cooldown.",
-    "rus": "#purplecard#усиление +1 Битвы#/purplecard# на 1 час.\n#purplecard#усиление +1 Скорости#/purplecard# на 1 час.\n1 час перезарядки."
+    "rus": "+1 Битвы #purplecard#усиление#/purplecard# на 1 час.\n+1 Скорости #purplecard#усиление#/purplecard# на 1 час.\n1 час перезарядки."
   },
   "2719912955696055609": {
     "eng": "Hold down the hotkey to draw your rapid-fire sidearm and lay down a deadly hail of bullets.",
@@ -51265,7 +51265,7 @@
   },
   "3105667547854275840": {
     "eng": "DPS Target Dummy",
-    "rus": "Тренировочный манекен DPS"
+    "rus": "Манекен теста урона"
   },
   "3105746957570803002": {
     "eng": "Nice spandex!",
@@ -52761,7 +52761,7 @@
   },
   "3184538536285963533": {
     "eng": "You have been targeted by a Fire Giant!",
-    "rus": "Вас атакует огненный гигант!"
+    "rus": "Вас атакует Огненный гигант!"
   },
   "3184590196210861372": {
     "eng": "Mesmerized [Basic Power]",
@@ -53465,7 +53465,7 @@
   },
   "3224096207341094203": {
     "eng": "$evalregisterfloat3.pct$% of your missing health ($healing.nofraction$)",
-    "rus": "$evalregisterfloat3.pct$% от вашей недостающей здоровья ($healing.nofraction$)"
+    "rus": "$evalregisterfloat3.pct$% от вашего недостающего здоровья ($healing.nofraction$)"
   },
   "3224196499121767740": {
     "eng": "Throw a dagger which #emphasis#freezes#/emphasis# the first enemy it comes in contact with, #emphasis#slowing#/emphasis# other enemies nearby after a short delay.",
@@ -66705,7 +66705,7 @@
   },
   "3993480924811429129": {
     "eng": "Extends the duration of #orange#Colossal Roar#/orange# by 1s.",
-    "rus": "Увеличивает продолжительность #orange#Колоссального Рёв#/orange# на 1 сек."
+    "rus": "Увеличивает продолжительность #orange#Колоссального рёва#/orange# на 1 сек."
   },
   "3993781211872232818": {
     "eng": "Nimble Belt",
@@ -70409,7 +70409,7 @@
   },
   "4208500031468930316": {
     "eng": "The Danger Room Black Box contains some of the most powerful uniques or artifacts.\n\n#emphasis#The box has an equal chance of containing:#/emphasis#\n\nDanger Room Training Manual\nCyclops Was Right T-Shirt\nCerebra Helmet Interface\nFist of Apocalypse\nMobile Lab Kit\nSentinel Targeting Unit\nSinister's Diamond\nStandard Issue X-Men Uniform\nTanya's Love Letter",
-    "rus": "Чёрная коробка Комнаты опасности содержит некоторые из самых мощных уникальных предметов или артефактов.\n\n#emphasis#Коробка имеет равные шансы содержать:#/emphasis#\n\nУчебное руководство Комнаты опасности\nФутболка \"Циклоп был прав\"\nИнтерфейс шлема Церебро\nКулак Апокалипсиса\nМобильная лабораторная аптечка\nУстройство целеуказания Стража\nАлмаз Зловещего\nУставная униформа Людей Икс\nПисьмо любви Тани"
+    "rus": "Чёрная коробка Комнаты опасности содержит некоторые из самых мощных уникальных предметов или артефактов.\n\n#emphasis#Коробка имеет равные шансы содержать:#/emphasis#\n\nУчебное руководство Комнаты опасности\nФутболка \"Циклоп был прав\"\nШлем-интерфейс Церебра\nКулак Апокалипсиса\nМобильная лабораторная аптечка\nУстройство целеуказания Стража\nАлмаз Зловещего\nУставная униформа Людей Икс\nПисьмо любви Тани"
   },
   "4208559198992663866": {
     "eng": "Blood from Stone",
@@ -71493,7 +71493,7 @@
   },
   "4265919788544886020": {
     "eng": "Friendly Neighborhood Target Dummy",
-    "rus": "Дружелюбный сосед Тренировочный манекен"
+    "rus": "Тренировочный манекен Дружелюбный сосед"
   },
   "4266395555029058889": {
     "eng": "Nova",
@@ -74581,7 +74581,7 @@
   },
   "4452134606901544258": {
     "eng": "When you use a #orange#Mutant Powerhouse#/orange# ability, gain +$param1.power.condition0.damageratingbonusbytype.nofraction$ Physical Damage Rating, +$param1.power.condition0.statdurabilitymodifier.nofraction$ Durability and all of your Melee powers cost $param1.power.condition0.endurancecostchangepctkeywrd.pct$% less for $param1.power.condition0.duration$.",
-    "rus": "При использовании способность #orange#Мутантская Сила#/orange#, получаете +$param1.power.condition0.damageratingbonusbytype.nofraction$ Рейтинг Физического урона, +$param1.power.condition0.statdurabilitymodifier.nofraction$ Выносливости, и все ваши М melee способности стоят на $param1.power.condition0.endurancecostchangepctkeywrd.pct$% меньше в течение $param1.power.condition0.duration$."
+    "rus": "При использовании способности #orange#Мутантская Сила#/orange#, получаете +$param1.power.condition0.damageratingbonusbytype.nofraction$ Рейтинг Физического урона, +$param1.power.condition0.statdurabilitymodifier.nofraction$ Выносливости, и все ваши М melee способности стоят на $param1.power.condition0.endurancecostchangepctkeywrd.pct$% меньше в течение $param1.power.condition0.duration$."
   },
   "4452381047755310332": {
     "eng": "Dark Elf Boss",
@@ -86853,7 +86853,7 @@
   },
   "5203312464137618747": {
     "eng": "When you use a Strike Team power, you gain +$param1.power.condition0.statIntelligenceModifier$ intelligence, +$param1.power.condition0.damageratingbonusbytype$ physical damage and +$param1.power.condition0.damageratingbonusbytype$ energy damage rating  for $param1.power.condition0.duration$ ($param1.power.cooldown$ cooldown)",
-    "rus": "При использовании способность Ударного отряда, вы получаете +$param1.power.condition0.statIntelligenceModifier$ интеллекта, +$param1.power.condition0.damageratingbonusbytype$ физического урона и +$param1.power.condition0.damageratingbonusbytype$ рейтинга урона энергии на $param1.power.condition0.duration$ (перезарядка $param1.power.cooldown$)"
+    "rus": "При использовании способности Ударного отряда, вы получаете +$param1.power.condition0.statIntelligenceModifier$ интеллекта, +$param1.power.condition0.damageratingbonusbytype$ физического урона и +$param1.power.condition0.damageratingbonusbytype$ рейтинга урона энергии на $param1.power.condition0.duration$ (перезарядка $param1.power.cooldown$)"
   },
   "5203363213414368523": {
     "eng": "Oh, come on! That was hardly a balanced game.",
@@ -100541,7 +100541,7 @@
   },
   "6031871862446097768": {
     "eng": "When you drop below 20% Health, enemies cower in fear for $param1.power.condition0.duration$",
-    "rus": "Когда Здоровье ниже 20%, враги прячутся в страхе в течение $param1.power.condition0.duration$"
+    "rus": "Когда Здоровье ниже 20%, враги впадают в оцепенение на $param1.power.condition0.duration$"
   },
   "6031920322582021506": {
     "eng": "Mystic Mask",
@@ -106405,7 +106405,7 @@
   },
   "6387468268126274974": {
     "eng": "A chest containing a minimum of #purplecard#25,000 Credits#/purplecard#.\n#emphasis#Use this item to spawn your reward on the ground. This cannot be used in hubs.#/emphasis#",
-    "rus": "Сундук, в котором находится не менее #purplecard#1 миллиона кредитов#/purplecard#.\n#emphasis#Щёлкните ПКМ, чтобы награда появилась на земле. Нельзя использовать в штабе.#/emphasis#"
+    "rus": "Сундук, в котором находится не менее #purplecard#25 000 кредитов#/purplecard#.\n#emphasis#Используйте этот предмет, чтобы награда появилась на земле. Нельзя использовать в штабе.#/emphasis#"
   },
   "6387750181119984998": {
     "eng": "You and your allies gain #teambuff#Accuracy#/teambuff#, increasing Critical Hit Rating by $CritRatingBonusAdd.precision0$ and Critical Damage Rating by $CritDamageRating$ until a different #powerkeyword#Fantastic Friend#/powerkeyword# Power is used",
@@ -114441,7 +114441,7 @@
   },
   "6859766915039167756": {
     "eng": "High Health Raid Dummy",
-    "rus": "Живучий враг рейда"
+    "rus": "Живучий манекен рейда"
   },
   "6859895235841033542": {
     "eng": "Interact with Security System A",
@@ -120629,7 +120629,7 @@
   },
   "7237158531682469176": {
     "eng": "$procchancestring$ chance when you are attacked to cause your attacker to cower in fear for $param1.power.condition0.duration$",
-    "rus": "$procchancestring$ шанс при входящем уроне, заставить вашего нападающего дрожать от страха в течение $param1.power.condition0.duration$"
+    "rus": "$procchancestring$ шанс при входящем уроне, заставить нападающего впасть в оцепенение на $param1.power.condition0.duration$"
   },
   "7237273503603492104": {
     "eng": "Increase the vendor's rank to improve the quantity, rarity, and difficulty of available scenarios.",
@@ -125517,7 +125517,7 @@
   },
   "7520492537683051783": {
     "eng": "When you use a Photonics power, gain +$param1.power.condition0.statenergyprojectionmodifier.nofraction$ Energy for $param1.power.condition0.duration$.  This effect stacks up to 4 times. ",
-    "rus": "При использовании способность Фотоники, получаете +$param1.power.condition0.statenergyprojectionmodifier.nofraction$ Энергии на $param1.power.condition0.duration$. Этот эффект накапливается до 4 раз."
+    "rus": "При использовании способности Фотоники, получаете +$param1.power.condition0.statenergyprojectionmodifier.nofraction$ Энергии на $param1.power.condition0.duration$. Этот эффект накапливается до 4 раз."
   },
   "7520703987516769547": {
     "eng": "Scroll Up",
@@ -134825,7 +134825,7 @@
   },
   "8068411922347197710": {
     "eng": "Luke's Lucky Chain Artifact Box",
-    "rus": "Коробка артефакт \"Счастливая цепочка Люка\""
+    "rus": "Коробка артефакт \"Счастливая цепь Люка\""
   },
   "8069338480055616880": {
     "eng": "Street Sweep",
@@ -146381,7 +146381,7 @@
   },
   "8763106157928383807": {
     "eng": "This box contains the Luke's Lucky Chain item.\n#emphasis#+Total Defense Rating#/emphasis#\n#emphasis#+Damage Rating#/emphasis#\n#emphasis#+Summoned Ally Damage#/emphasis#\n#emphasis#+Summoned Ally Health#/emphasis#\n#emphasis#Use this item to receive your reward.#/emphasis#",
-    "rus": "В этой коробке содержится предмет \"Счастливая цепочка Люка\".\n#emphasis#+Общий Рейтинг Защиты#/emphasis#\n#emphasis#+Рейтинг урона#/emphasis#\n#emphasis#+Урон Призванных союзников#/emphasis#\n#emphasis#+Здоровье Призванных союзников#/emphasis#\n#emphasis#Используйте этот предмет, чтобы получить награду.#/emphasis#"
+    "rus": "В этой коробке содержится предмет \"Счастливая цепь Люка\".\n#emphasis#+Общий Рейтинг Защиты#/emphasis#\n#emphasis#+Рейтинг урона#/emphasis#\n#emphasis#+Урон Призванных союзников#/emphasis#\n#emphasis#+Здоровье Призванных союзников#/emphasis#\n#emphasis#Используйте этот предмет, чтобы получить награду.#/emphasis#"
   },
   "8763589449121531194": {
     "eng": "$procchancestring$ chance when you are attacked to gain the Midtown Manhattan Vengeance buff, increasing your Critical Damage by $param1.power.condition0.CritDamageRating.nofraction$ for $param1.power.condition0.duration$",
@@ -147569,7 +147569,7 @@
   },
   "8841046860730467646": {
     "eng": "The Black Box contains some of the most powerful uniques or artifacts.\n\n#emphasis#The box has an equal chance of containing:#/emphasis#\n\nDanger Room Training Manual\nCyclops Was Right T-Shirt\nCerebra Helmet Interface\nFist of Apocalypse\nMobile Lab Kit\nSentinel Targeting Unit\nSinister's Diamond\nStandard Issue X-Men Uniform\nTanya's Love Letter",
-    "rus": "Чёрная коробка содержит некоторые из самых мощных уникальных предметов или артефактов.\n\n#emphasis#Коробка имеет равные шансы содержать:#/emphasis#\n\nУчебное руководство Комнаты опасности\nФутболка \"Циклоп был прав\"\nИнтерфейс шлема Церебро\nКулак Апокалипсиса\nМобильная лабораторная аптечка\nУстройство целеуказания Стража\nАлмаз Зловещего\nУставная униформа Людей Икс\nПисьмо любви Тани"
+    "rus": "Чёрная коробка содержит некоторые из самых мощных уникальных предметов или артефактов.\n\n#emphasis#Коробка имеет равные шансы содержать:#/emphasis#\n\nУчебное руководство Комнаты опасности\nФутболка \"Циклоп был прав\"\nШлем-интерфейс Церебра\nКулак Апокалипсиса\nМобильная лабораторная аптечка\nУстройство целеуказания Стража\nАлмаз Зловещего\nУставная униформа Людей Икс\nПисьмо любви Тани"
   },
   "8841113690434766159": {
     "eng": "Nice toothpicks.\n—Hulk",
@@ -150609,7 +150609,7 @@
   },
   "9026246121174336874": {
     "eng": "When you drop below 20% Health, enemies cower in fear for $param1.power.condition0.duration$",
-    "rus": "Когда Здоровье ниже 20%, враги трепещут от страха в течение $param1.power.condition0.duration$"
+    "rus": "Когда Здоровье ниже 20%, враги впадают в оцепенение на $param1.power.condition0.duration$"
   },
   "9027534357906195781": {
     "eng": "Black Widow's real name is Natalia Alianova Romanoff, but she goes by Natasha.",
@@ -153953,7 +153953,7 @@
   },
   "9227272915742557441": {
     "eng": "Cerebra Helmet Interface",
-    "rus": "Шлем-интерфейс Церебро"
+    "rus": "Шлем-интерфейс Церебра"
   },
   "9227404955926136071": {
     "eng": "Blade Barrage",
@@ -166149,7 +166149,7 @@
   },
   "9951840358329550186": {
     "eng": "Loot Test Dummy",
-    "rus": "Манекен сбора добычи"
+    "rus": "Манекен теста добычи"
   },
   "9951856885304984888": {
     "eng": "Experience Boost - 1 Day",
@@ -176661,7 +176661,7 @@
   },
   "10572355337395438856": {
     "eng": "Use this item to receive a random ilevel 63 event related item!\n\nSpecial Issue Emergency Communicator\nS.H.I.E.L.D. Graduation Ring\nOne of the Nine\nS.H.I.E.L.D. Agent Medallion\nHYDRA Agent Medallion\nThe Nine Heads\nTop Secret HYDRA Training Manual\nS.H.I.E.L.D. Identification Badge\nLuke's Lucky Chain\nInsignia of the Heroes for Hire\nDark Dimension Portal Shard\nSling Ring of the Kamar-Taj\nMedallion of the Dark Dimension\nThe Book of Eibon\nThe Book of Demonicus",
-    "rus": "Используйте этот предмет, чтобы получить случайный предмет уровня 63, связанный с событием!\n\nЭкстренный коммуникатор специального выпуска\nКольцо выпускника ЩИТа\nОдин из Девяти\nМедальон агента ЩИТа\nМедальон агента ГИДРЫ\nДевять голов\nСекретное учебное руководство ГИДРЫ\nИдентификационный пропуск ЩИТа\nСчастливая цепочка Люка\nСимвол Героя по найму\nОсколок портала Тёмного измерения\nДвойное кольцо Камар-Таджа\nМедальон Тёмного измерения\nКнига Эйбона\nКнига Демоникуса"
+    "rus": "Используйте этот предмет, чтобы получить случайный предмет уровня 63, связанный с событием!\n\nЭкстренный коммуникатор специального выпуска\nКольцо выпускника ЩИТа\nОдин из Девяти\nМедальон агента ЩИТа\nМедальон агента ГИДРЫ\nДевять голов\nСекретное учебное руководство ГИДРЫ\nИдентификационный пропуск ЩИТа\nСчастливая цепь Люка\nСимвол Героя по найму\nОсколок портала Тёмного измерения\nДвойное кольцо Камар-Таджа\nМедальон Тёмного измерения\nКнига Эйбона\nКнига Демоникуса"
   },
   "10572674320446457200": {
     "eng": "Einherjar Aided!",
@@ -182649,7 +182649,7 @@
   },
   "10946655440876012853": {
     "eng": "Luke's Cosmically Enhanced Lucky Chain",
-    "rus": "Космически усиленная Удачная цепь Люка"
+    "rus": "Космически усиленная Счастливая цепь Люка"
   },
   "10946840626925995272": {
     "eng": "Round two, let's go!",
@@ -189097,7 +189097,7 @@
   },
   "11340457294280852791": {
     "eng": "+1 Fighting #purplecard#buff#/purplecard# for 1 hour.\n+1 Durability #purplecard#buff#/purplecard# for 1 hour.\n1 hour cooldown.",
-    "rus": "#purplecard#усиление +1 Битвы#/purplecard# на 1 час.\n#purplecard#усиление +1 Выносливости#/purplecard# на 1 час.\n1 час перезарядки."
+    "rus": "+1 Битвы #purplecard#усиление#/purplecard# на 1 час.\n+1 Выносливости #purplecard#усиление#/purplecard# на 1 час.\n1 час перезарядки."
   },
   "11340553243842708783": {
     "eng": "Returning to base!",
@@ -195101,7 +195101,7 @@
   },
   "11688187269666833674": {
     "eng": "Cower",
-    "rus": "Склониться"
+    "rus": "Оцепенение"
   },
   "11688626962710070590": {
     "eng": "PowerReference0",
@@ -202681,7 +202681,7 @@
   },
   "12131631553375634700": {
     "eng": "Strange is a clod who is too afraid to venture beyond his Vishanti. Damage and weaken enemies with this old and nearly forgotten spell.",
-    "rus": "Стрэндж слишком боится рисковать способностями вишанти. Он наносит урон и ослабляет врагов этим древним, полузабытым заклинанием."
+    "rus": "Стрэндж - просто болван, который слишком боится выходить за рамки своих Вишанти. Наносите урон и ослабляйте врагов этим древним и почти забытым заклинанием."
   },
   "12131819608505058555": {
     "eng": "Open Your Remote Notification",
@@ -202913,7 +202913,7 @@
   },
   "12145505839683339569": {
     "eng": "$procchancestring$ chance when you are hit to cause nearby enemies to cower in place for $param1.power.condition0.duration$ (5 second cooldown)",
-    "rus": "$procchancestring$ шанс при входящем уроне заставить ближайших врагов трепетать на месте в течение $param1.power.condition0.duration$ (перезарядка 5 сек)"
+    "rus": "$procchancestring$ шанс при входящем уроне заставить ближайших врагов оцепенеть на $param1.power.condition0.duration$ (перезарядка 5 сек)"
   },
   "12146620851853985083": {
     "eng": "Scavenge the Savage Lands for eggs and step on them before they hatch! ",
@@ -204093,7 +204093,7 @@
   },
   "12215797064005322046": {
     "eng": "Lvl 60 DPS Target Dummy",
-    "rus": "Тренировочный манекен DPS 60 ур."
+    "rus": "Манекен теста урона 60 ур."
   },
   "12215809334795568502": {
     "eng": "I'VE ALREADY WON! NEW YORK IS MINE!\n—Green Goblin",
@@ -205181,7 +205181,7 @@
   },
   "12284210451306317115": {
     "eng": "$procchancestring$ chance when you hit to summon a Fire Giant for $param1.power.lifespan$ (1 minute cooldown)",
-    "rus": "$procchancestring$ шанс при попадании призвать Огромного огня на $param1.power.lifespan$ (перезарядка 1 минута)"
+    "rus": "$procchancestring$ шанс при попадании призвать Огненного гиганта на $param1.power.lifespan$ (перезарядка 1 минута)"
   },
   "12284393799172031812": {
     "eng": "How much longer is this going to go on?",
@@ -212409,7 +212409,7 @@
   },
   "12718999710186865973": {
     "eng": "Craft Fire Giant's Horns, a Level 60 Slot 5 Unique Item that is usable by Any Hero\n\n#emphasis#Fire Giant's Horns#/emphasis#\n#emphasis#+Defense Rating#/emphasis#\n#emphasis#+Physical Defense Rating#/emphasis#\n#emphasis#+Health#/emphasis#\n#emphasis#+Critical Hit Rating#/emphasis#\n#emphasis#+Brutal Strike Rating#/emphasis#\n#emphasis#+Fighting#/emphasis#\n#emphasis#+Intelligence#/emphasis#\n#emphasis#+Summoned Ally Damage#/emphasis#\n#emphasis#+Summoned Ally Duration#/emphasis#\n#emphasis#When you hit, gain Attack Speed and Cost Reduction (stacks up to 2 times)#/emphasis#",
-    "rus": "Создаёт Рога Огненного Великана — Уникальный предмет 5 ячейки 60 уровня для любого героя\n\n#emphasis#Рога Огненного Великана#/emphasis#\n#emphasis#+Рейтинг Защиты#/emphasis#\n#emphasis#+Рейтинг физической защиты#/emphasis#\n#emphasis#+Здоровье#/emphasis#\n#emphasis#+Рейтинг Критического удара#/emphasis#\n#emphasis#+Рейтинг Сокрушительного удара#/emphasis#\n#emphasis#+Битва#/emphasis#\n#emphasis#+Интеллект#/emphasis#\n#emphasis#+Урон Призванных союзников#/emphasis#\n#emphasis#+Длительность Призванных союзников#/emphasis#\n#emphasis#При попадании вы получаете Скорость атаки и Снижение расхода (накапливается до 2 раз)#/emphasis#"
+    "rus": "Создаёт Рога Огненного гиганта — Уникальный предмет 5 ячейки 60 уровня для любого героя\n\n#emphasis#Рога Огненного гиганта#/emphasis#\n#emphasis#+Рейтинг Защиты#/emphasis#\n#emphasis#+Рейтинг физической защиты#/emphasis#\n#emphasis#+Здоровье#/emphasis#\n#emphasis#+Рейтинг Критического удара#/emphasis#\n#emphasis#+Рейтинг Сокрушительного удара#/emphasis#\n#emphasis#+Битва#/emphasis#\n#emphasis#+Интеллект#/emphasis#\n#emphasis#+Урон Призванных союзников#/emphasis#\n#emphasis#+Длительность Призванных союзников#/emphasis#\n#emphasis#При попадании вы получаете Скорость атаки и Снижение расхода (накапливается до 2 раз)#/emphasis#"
   },
   "12719028074099115275": {
     "eng": "She-Hulk",
@@ -226581,7 +226581,7 @@
   },
   "13567316743921796358": {
     "eng": "+2 Fighting #purplecard#buff#/purplecard# for 1 hour.\n-1 Speed #redcard#debuff#/redcard# for 1 hour.\n24 hour cooldown.",
-    "rus": "#purplecard#Усиление +2 Битвы#/purplecard# на 1 час.\n#redcard#Ослабление -1 Скорости#/redcard# на 1 Час.\nПерезарядка 24 часа."
+    "rus": "+2 Битвы #purplecard#усиление#/purplecard# на 1 час.\n-1 Скорости #redcard#ослабление#/redcard# на 1 час.\nПерезарядка 24 часа."
   },
   "13567741430286124293": {
     "eng": "\n",
@@ -230121,7 +230121,7 @@
   },
   "13781684965462705417": {
     "eng": "When you use a stealth power, gain +$param1.power.condition0.CritRatingbonusadd.nofraction$ Critical Hit Rating, +$param1.power.condition0.SuperCritRatingbonusadd.nofraction$ Brutal Strike Rating and +$param1.power.condition0.statspeedmodifier.nofraction$ Speed for $param1.power.condition0.duration.nofraction$.",
-    "rus": "При использовании способность скрытности, получаете +$param1.power.condition0.CritRatingbonusadd.nofraction$ Рейтинг Критического удара, +$param1.power.condition0.SuperCritRatingbonusadd.nofraction$ Рейтинг Сокрушительного удара и +$param1.power.condition0.statspeedmodifier.nofraction$ Скорости на $param1.power.condition0.duration.nofraction$."
+    "rus": "При использовании способности скрытности, получаете +$param1.power.condition0.CritRatingbonusadd.nofraction$ Рейтинг Критического удара, +$param1.power.condition0.SuperCritRatingbonusadd.nofraction$ Рейтинг Сокрушительного удара и +$param1.power.condition0.statspeedmodifier.nofraction$ Скорости на $param1.power.condition0.duration.nofraction$."
   },
   "13781703369524184437": {
     "eng": "Sovereign Under Siege",
@@ -230669,7 +230669,7 @@
   },
   "13816761740035753232": {
     "eng": "When you use a Vengeance power, you gain $param1.power.condition0.DamageRating.nofraction$ damage rating, $param1.power.condition0.castspeedincrpct.pct$% attack speed, and $param1.power.condition0.Blockratingbonusadd.nofraction$ deflect rating for $param1.power.condition0.duration$",
-    "rus": "При использовании способность Мести, вы получаете $param1.power.condition0.DamageRating.nofraction$ рейтинг урона, $param1.power.condition0.castspeedincrpct.pct$% Скорость атаки и $param1.power.condition0.Blockratingbonusadd.nofraction$ рейтинг отражения на $param1.power.condition0.duration$"
+    "rus": "При использовании способности Мести, вы получаете $param1.power.condition0.DamageRating.nofraction$ рейтинг урона, $param1.power.condition0.castspeedincrpct.pct$% Скорость атаки и $param1.power.condition0.Blockratingbonusadd.nofraction$ рейтинг отражения на $param1.power.condition0.duration$"
   },
   "13817243360481182982": {
     "eng": "onContactTimePower",
@@ -237729,7 +237729,7 @@
   },
   "14216217509912446261": {
     "eng": "I don't wear white to hide myself. I wear it so they'll see me coming. So they know who it is, 'cause when they see white it doesn't matter how good a target I am. Their hands shake so bad, they couldn't hit the moon.\nWhen dealing a brutal strike to an enemy, their allies may cower in fear as they witness your vulgar display of power.",
-    "rus": "Я ношу белое не для того, чтобы прятаться, а чтобы они видели - я иду. Чтобы они знали, кто пришёл за ними. Потому что, когда они видят белое, уже не могут выстрелить - у них слишком дрожат руки.\nКогда вы нанесёте сокрушительный удар врагу, его союзники будут прятаться, напуганные демонстрацией силы."
+    "rus": "Я ношу белое не для того, чтобы прятаться, а чтобы они видели - я иду. Чтобы они знали, кто пришёл за ними. Потому что, когда они видят белое, уже не могут выстрелить - у них слишком дрожат руки.\nКогда вы нанесёте сокрушительный удар врагу, его союзники будут в оцепенении, напуганные демонстрацией силы."
   },
   "14216237124979328273": {
     "eng": "#red#Fire - Thermal Blast:#/red#",
@@ -240401,7 +240401,7 @@
   },
   "14389650685860906249": {
     "eng": "Critical Chance Dummy",
-    "rus": "Критический шанс Думми"
+    "rus": "Манекен Критического шанса"
   },
   "14389793454872003853": {
     "eng": "Kurt",
@@ -248629,7 +248629,7 @@
   },
   "14888777373786703167": {
     "eng": "When you hit with a Ranged Power, gain +$param1.power.condition0.StatFightingSkillsModifier$ Fighting and +$param1.power.condition0.BlockRatingBonusAdd.nofraction$ Deflect Rating for $param1.power.condition0.duration$",
-    "rus": "При попадании Дальней способностью получите +$param1.power.condition0.StatFightingSkillsModifier$ Битвы и +$param1.power.condition0.BlockRatingBonusAdd.nofraction$% Рейтинг Отражения на $param1.power.condition0.duration$."
+    "rus": "При попадании Дальней способностью получите +$param1.power.condition0.StatFightingSkillsModifier$ Битвы и +$param1.power.condition0.BlockRatingBonusAdd.nofraction$ Рейтинг Отражения на $param1.power.condition0.duration$."
   },
   "14889491558202541439": {
     "eng": "Mysterious Sash",
@@ -249393,7 +249393,7 @@
   },
   "14939199967657264392": {
     "eng": "+100 Damage Rating and +1000 Health #purplecard#buff#/purplecard# for 1 hour.",
-    "rus": "+100 Рейтинг урона и +1 000 Здоровья #purplecard#buff#/purplecard# на 1 час."
+    "rus": "+100 Рейтинг урона и +1 000 Здоровья #purplecard#усиление#/purplecard# на 1 час."
   },
   "14939484453599774122": {
     "eng": "",
@@ -253949,7 +253949,7 @@
   },
   "15201809390706033918": {
     "eng": "Fire Giant Citadel",
-    "rus": "Цитадель огненных гигантов"
+    "rus": "Цитадель Огненного гиганта"
   },
   "15201913114241860933": {
     "eng": "Corkscrew Punch",
@@ -271785,7 +271785,7 @@
   },
   "16259291795677971722": {
     "eng": "+2 Durability #purplecard#buff#/purplecard# for 1 hour.\n-1 Speed #redcard#debuff#/redcard# for 1 hour.\n24 hour cooldown.",
-    "rus": "#purplecard#Усиление +2 Выносливости#/purplecard# на 1 час.\n#redcard#Ослабление -1 Скорости#/redcard# на 1 час.\nПерезарядка 24 часа."
+    "rus": "+2 Выносливости #purplecard#усиление#/purplecard# на 1 час.\n-1 Скорости #redcard#ослабление#/redcard# на 1 час.\nПерезарядка 24 часа."
   },
   "16259503159679255883": {
     "eng": "",
@@ -273025,7 +273025,7 @@
   },
   "16334046195387401485": {
     "eng": "When you use a stealth power, gain +$param1.power.condition0.CritRatingbonusadd.nofraction$ Critical Hit Rating, +$param1.power.condition0.SuperCritRatingbonusadd.nofraction$ Brutal Strike Rating and +$param1.power.condition0.statfightingskillsmodifier.nofraction$ Fighting for $param1.power.condition0.duration.nofraction$.",
-    "rus": "При использовании способность скрытности, получаете +$param1.power.condition0.CritRatingbonusadd.nofraction$ Рейтинг Критического удара, +$param1.power.condition0.SuperCritRatingbonusadd.nofraction$ Рейтинг Сокрушительного удара и +$param1.power.condition0.statfightingskillsmodifier.nofraction$ Битвы на $param1.power.condition0.duration.nofraction$."
+    "rus": "При использовании способности скрытности, получаете +$param1.power.condition0.CritRatingbonusadd.nofraction$ Рейтинг Критического удара, +$param1.power.condition0.SuperCritRatingbonusadd.nofraction$ Рейтинг Сокрушительного удара и +$param1.power.condition0.statfightingskillsmodifier.nofraction$ Битвы на $param1.power.condition0.duration.nofraction$."
   },
   "16334144949690500461": {
     "eng": "Primitive Ionic Particle",
@@ -273993,7 +273993,7 @@
   },
   "16390943538474714428": {
     "eng": "+1 Fighting #purplecard#buff#/purplecard# for 1 hour.\n+1 Strength #purplecard#buff#/purplecard# for 1 hour.\n1 hour cooldown.",
-    "rus": "#purplecard#усиление +1 Битвы #/purplecard# на 1 час.\n#purplecard#усиление +1 Силы#/purplecard# на 1 час.\n1 час перезарядки."
+    "rus": "+1 Битвы #purplecard#усиление#/purplecard# на 1 час.\n+1 Силы #purplecard#усиление#/purplecard# на 1 час.\n1 час перезарядки."
   },
   "16391215336887158072": {
     "eng": "Clean-up the Wretched Slum's seedier points of interest.",
@@ -276313,7 +276313,7 @@
   },
   "16540336519739606277": {
     "eng": "Map Dummy",
-    "rus": "Карта Думми"
+    "rus": "Карта-заглушка"
   },
   "16540395601384179017": {
     "eng": "missileCollidePower0",
@@ -289429,7 +289429,7 @@
   },
   "17324540858774979894": {
     "eng": "This recipe requires (1) #emphasis#Asgardian Forged Ingot#/emphasis# and 100,000 credits each time you wish to craft this item. \n\nCraft Fire Giant's Horns, a Level 60 Slot 5 Unique Item that is usable by Any Hero\n\n#emphasis#Fire Giant's Horns#/emphasis#\n#emphasis#+Defense Rating#/emphasis#\n#emphasis#+Physical Defense Rating#/emphasis#\n#emphasis#+Health#/emphasis#\n#emphasis#+Critical Hit Rating#/emphasis#\n#emphasis#+Brutal Strike Rating#/emphasis#\n#emphasis#+Fighting#/emphasis#\n#emphasis#+Intelligence#/emphasis#\n#emphasis#+Summoned Ally Damage#/emphasis#\n#emphasis#+Summoned Ally Duration#/emphasis#\n#emphasis#When you hit, gain Attack Speed and Cost Reduction (stacks up to 2 times)#/emphasis#\n",
-    "rus": "Этот рецепт требует: (1) #emphasis#Асгардский кованый слиток#/emphasis# и 100 000 Кредитов каждый раз, когда вы хотите создать этот предмет.\n\nСоздаёт Рога Огненного Великана — Уникальный предмет 5 ячейки 60 уровня для любого героя\n\n#emphasis#Рога Огненного Великана#/emphasis#\n#emphasis#+Рейтинг Защиты#/emphasis#\n#emphasis#+Рейтинг физической защиты#/emphasis#\n#emphasis#+Здоровье#/emphasis#\n#emphasis#+Рейтинг Критического удара#/emphasis#\n#emphasis#+Рейтинг Сокрушительного удара#/emphasis#\n#emphasis#+Битва#/emphasis#\n#emphasis#+Интеллект#/emphasis#\n#emphasis#+Урон Призванных союзников#/emphasis#\n#emphasis#+Длительность Призванных союзников#/emphasis#\n#emphasis#При попадании вы получаете Скорость атаки и Снижение расхода (накапливается до 2 раз)#/emphasis#\n"
+    "rus": "Этот рецепт требует: (1) #emphasis#Асгардский кованый слиток#/emphasis# и 100 000 Кредитов каждый раз, когда вы хотите создать этот предмет.\n\nСоздаёт Рога Огненного гиганта — Уникальный предмет 5 ячейки 60 уровня для любого героя\n\n#emphasis#Рога Огненного гиганта#/emphasis#\n#emphasis#+Рейтинг Защиты#/emphasis#\n#emphasis#+Рейтинг физической защиты#/emphasis#\n#emphasis#+Здоровье#/emphasis#\n#emphasis#+Рейтинг Критического удара#/emphasis#\n#emphasis#+Рейтинг Сокрушительного удара#/emphasis#\n#emphasis#+Битва#/emphasis#\n#emphasis#+Интеллект#/emphasis#\n#emphasis#+Урон Призванных союзников#/emphasis#\n#emphasis#+Длительность Призванных союзников#/emphasis#\n#emphasis#При попадании вы получаете Скорость атаки и Снижение расхода (накапливается до 2 раз)#/emphasis#\n"
   },
   "17324605764265444617": {
     "eng": "Shock Trooper Lockout",
@@ -293297,7 +293297,7 @@
   },
   "17547371170858140940": {
     "eng": "Lvl 60 Raid Dummy",
-    "rus": "Враг рейда 60 ур."
+    "rus": "Манекен рейда 60 ур."
   },
   "17547405375975523594": {
     "eng": "Whew, I escaped!",
@@ -308313,7 +308313,7 @@
   },
   "18445266717314188613": {
     "eng": "When you use a #powerkeyword#Brains#/powerkeyword# power all other #powerkeyword#Brains#/powerkeyword# powers:",
-    "rus": "При использовании способность #powerkeyword#Разума#/powerkeyword#, все другие способности #powerkeyword#Разума#/powerkeyword#:"
+    "rus": "При использовании способности #powerkeyword#Разума#/powerkeyword#, все другие способности #powerkeyword#Разума#/powerkeyword#:"
   },
   "18445311823051228478": {
     "eng": "Perhaps we keep focus on our mutual threat.",
